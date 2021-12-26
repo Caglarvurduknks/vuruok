@@ -1,0 +1,2 @@
+# vuruok
+Onu bitiricem .d
